@@ -1,0 +1,8 @@
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\bin\Debug\inheritance2.exe.config
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\bin\Debug\inheritance2.exe
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\bin\Debug\inheritance2.pdb
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\obj\Debug\inheritance2.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\obj\Debug\inheritance2.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\obj\Debug\inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\obj\Debug\inheritance2.exe
+C:\Users\philip.wanderrienov\source\repos\inheritance2\inheritance2\obj\Debug\inheritance2.pdb

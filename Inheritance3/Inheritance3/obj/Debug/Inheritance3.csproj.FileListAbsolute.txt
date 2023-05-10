@@ -1,0 +1,8 @@
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe.config
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\bin\Debug\Inheritance3.pdb
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\obj\Debug\Inheritance3.exe
+C:\Users\philip.wanderrienov\source\repos\Inheritance3\Inheritance3\obj\Debug\Inheritance3.pdb

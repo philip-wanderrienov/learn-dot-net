@@ -1,0 +1,8 @@
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\philip.wanderrienov\source\repos\Abstract\Abstract\obj\Debug\Abstract.pdb

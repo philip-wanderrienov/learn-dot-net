@@ -1,0 +1,8 @@
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\philip.wanderrienov\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

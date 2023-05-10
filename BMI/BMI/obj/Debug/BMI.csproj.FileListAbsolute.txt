@@ -1,0 +1,8 @@
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\philip.wanderrienov\source\repos\BMI\BMI\obj\Debug\BMI.pdb

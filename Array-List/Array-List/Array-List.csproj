@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F0620B4-EB5B-4D16-B957-8161675F1639}</ProjectGuid>
+    <ProjectGuid>{B147BF16-72C2-41E4-8379-115C0F00C147}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MySuperBank</RootNamespace>
-    <AssemblyName>MySuperBank</AssemblyName>
+    <RootNamespace>Array_List</RootNamespace>
+    <AssemblyName>Array-List</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BankAccount.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Transaction.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

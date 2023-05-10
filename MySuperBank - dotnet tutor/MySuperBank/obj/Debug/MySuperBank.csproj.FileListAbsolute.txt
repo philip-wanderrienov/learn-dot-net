@@ -6,3 +6,11 @@ C:\Users\philip.wanderrienov\source\repos\MySuperBank\MySuperBank\bin\Debug\MySu
 C:\Users\philip.wanderrienov\source\repos\MySuperBank\MySuperBank\bin\Debug\MySuperBank.pdb
 C:\Users\philip.wanderrienov\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.exe
 C:\Users\philip.wanderrienov\source\repos\MySuperBank\MySuperBank\obj\Debug\MySuperBank.pdb
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\bin\Debug\MySuperBank.exe.config
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\bin\Debug\MySuperBank.exe
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\bin\Debug\MySuperBank.pdb
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\obj\Debug\MySuperBank.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\obj\Debug\MySuperBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\obj\Debug\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\obj\Debug\MySuperBank.exe
+C:\Users\philip.wanderrienov\source\repos\MySuperBank - dotnet tutor\MySuperBank\obj\Debug\MySuperBank.pdb

@@ -1,0 +1,8 @@
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\bin\Debug\Collection1.exe.config
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\bin\Debug\Collection1.exe
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\bin\Debug\Collection1.pdb
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\obj\Debug\Collection1.csproj.AssemblyReference.cache
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\obj\Debug\Collection1.csproj.SuggestedBindingRedirects.cache
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\obj\Debug\Collection1.csproj.CoreCompileInputs.cache
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\obj\Debug\Collection1.exe
+C:\Users\philip.wanderrienov\source\repos\Collection1\Collection1\obj\Debug\Collection1.pdb
